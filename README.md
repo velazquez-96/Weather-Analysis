@@ -18,27 +18,27 @@ The second part of the project allows us to establish specific weather condition
 
 ## Outcomes
 
-Observable trends
+* Observable trends
 
 ![Image1.png](Images/Image1.png)
 
-Generated dataset
+* Generated dataset
 
 ![Image3.png](Images/Image3.png)
 
-Example of scatter plot generated 
+* Example of scatter plot generated 
 
 ![Image4.png](Images/Image4.png)
 
-Example of linear regression model
+* Example of linear regression model
 
 ![Image2.png](Images/Image2.png)
 
-Example of linear regression model
+* Example of linear regression model
 
 ![Image5.png](Images/Image5.png)
 
-Generated map with humidity heat layer and markers with hotel locations
+* Generated map with humidity heat layer and markers with hotel locations according to climate conditions chosen
 
 ![map-9.png](Images/map-9.png)
 
